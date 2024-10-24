@@ -1,0 +1,97 @@
+[
+    {
+        "root_word": "أبل",
+        "occurrences": 1,
+        "root_order": 1
+    },
+    {
+        "root_word": "أكل",
+        "occurrences": 1,
+        "root_order": 2
+    },
+    {
+        "root_word": "ألم",
+        "occurrences": 2,
+        "root_order": 3
+    },
+    {
+        "root_word": "جعل",
+        "occurrences": 2,
+        "root_order": 4
+    },
+    {
+        "root_word": "حجر",
+        "occurrences": 1,
+        "root_order": 5
+    },
+    {
+        "root_word": "رأي",
+        "occurrences": 1,
+        "root_order": 6
+    },
+    {
+        "root_word": "ربب",
+        "occurrences": 1,
+        "root_order": 7
+    },
+    {
+        "root_word": "رسل",
+        "occurrences": 1,
+        "root_order": 8
+    },
+    {
+        "root_word": "رمي",
+        "occurrences": 1,
+        "root_order": 9
+    },
+    {
+        "root_word": "سجل",
+        "occurrences": 1,
+        "root_order": 10
+    },
+    {
+        "root_word": "صحب",
+        "occurrences": 1,
+        "root_order": 11
+    },
+    {
+        "root_word": "ضلل",
+        "occurrences": 1,
+        "root_order": 12
+    },
+    {
+        "root_word": "طير",
+        "occurrences": 1,
+        "root_order": 13
+    },
+    {
+        "root_word": "عصف",
+        "occurrences": 1,
+        "root_order": 14
+    },
+    {
+        "root_word": "فعل",
+        "occurrences": 1,
+        "root_order": 15
+    },
+    {
+        "root_word": "فيل",
+        "occurrences": 1,
+        "root_order": 16
+    },
+    {
+        "root_word": "كيد",
+        "occurrences": 1,
+        "root_order": 17
+    },
+    {
+        "root_word": "كيف",
+        "occurrences": 1,
+        "root_order": 18
+    },
+    {
+        "root_word": "لم",
+        "occurrences": 2,
+        "root_order": 19
+    }
+]

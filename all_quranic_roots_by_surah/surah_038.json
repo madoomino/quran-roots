@@ -1,0 +1,1577 @@
+[
+    {
+        "root_word": "أتي",
+        "occurrences": 2,
+        "root_order": 1
+    },
+    {
+        "root_word": "أجر",
+        "occurrences": 1,
+        "root_order": 2
+    },
+    {
+        "root_word": "أحد",
+        "occurrences": 1,
+        "root_order": 3
+    },
+    {
+        "root_word": "أخذ",
+        "occurrences": 2,
+        "root_order": 4
+    },
+    {
+        "root_word": "أخر",
+        "occurrences": 3,
+        "root_order": 5
+    },
+    {
+        "root_word": "أخو",
+        "occurrences": 1,
+        "root_order": 6
+    },
+    {
+        "root_word": "أرض",
+        "occurrences": 5,
+        "root_order": 7
+    },
+    {
+        "root_word": "ألك",
+        "occurrences": 4,
+        "root_order": 8
+    },
+    {
+        "root_word": "أله",
+        "occurrences": 7,
+        "root_order": 9
+    },
+    {
+        "root_word": "أم",
+        "occurrences": 6,
+        "root_order": 10
+    },
+    {
+        "root_word": "أمر",
+        "occurrences": 1,
+        "root_order": 11
+    },
+    {
+        "root_word": "أمم",
+        "occurrences": 6,
+        "root_order": 12
+    },
+    {
+        "root_word": "أمن",
+        "occurrences": 4,
+        "root_order": 13
+    },
+    {
+        "root_word": "أن",
+        "occurrences": 7,
+        "root_order": 14
+    },
+    {
+        "root_word": "أنا",
+        "occurrences": 4,
+        "root_order": 15
+    },
+    {
+        "root_word": "أنت",
+        "occurrences": 4,
+        "root_order": 16
+    },
+    {
+        "root_word": "أنتم",
+        "occurrences": 3,
+        "root_order": 17
+    },
+    {
+        "root_word": "أني",
+        "occurrences": 1,
+        "root_order": 18
+    },
+    {
+        "root_word": "أهل",
+        "occurrences": 2,
+        "root_order": 19
+    },
+    {
+        "root_word": "أوب",
+        "occurrences": 8,
+        "root_order": 20
+    },
+    {
+        "root_word": "أولأ",
+        "occurrences": 1,
+        "root_order": 21
+    },
+    {
+        "root_word": "أولاء",
+        "occurrences": 2,
+        "root_order": 22
+    },
+    {
+        "root_word": "أولو",
+        "occurrences": 4,
+        "root_order": 23
+    },
+    {
+        "root_word": "أيك",
+        "occurrences": 1,
+        "root_order": 24
+    },
+    {
+        "root_word": "أيوب",
+        "occurrences": 1,
+        "root_order": 25
+    },
+    {
+        "root_word": "أيي",
+        "occurrences": 1,
+        "root_order": 26
+    },
+    {
+        "root_word": "إبراهيم",
+        "occurrences": 1,
+        "root_order": 27
+    },
+    {
+        "root_word": "إبرهيم",
+        "occurrences": 1,
+        "root_order": 28
+    },
+    {
+        "root_word": "إذ",
+        "occurrences": 6,
+        "root_order": 29
+    },
+    {
+        "root_word": "إذا",
+        "occurrences": 1,
+        "root_order": 30
+    },
+    {
+        "root_word": "إسحاق",
+        "occurrences": 1,
+        "root_order": 31
+    },
+    {
+        "root_word": "إسماعيل",
+        "occurrences": 1,
+        "root_order": 32
+    },
+    {
+        "root_word": "إلى",
+        "occurrences": 2,
+        "root_order": 33
+    },
+    {
+        "root_word": "إن",
+        "occurrences": 15,
+        "root_order": 34
+    },
+    {
+        "root_word": "الذي",
+        "occurrences": 4,
+        "root_order": 35
+    },
+    {
+        "root_word": "الذين",
+        "occurrences": 1,
+        "root_order": 36
+    },
+    {
+        "root_word": "الله",
+        "occurrences": 3,
+        "root_order": 37
+    },
+    {
+        "root_word": "اليسع",
+        "occurrences": 1,
+        "root_order": 38
+    },
+    {
+        "root_word": "بئس",
+        "occurrences": 2,
+        "root_order": 39
+    },
+    {
+        "root_word": "برد",
+        "occurrences": 1,
+        "root_order": 40
+    },
+    {
+        "root_word": "برك",
+        "occurrences": 1,
+        "root_order": 41
+    },
+    {
+        "root_word": "بشر",
+        "occurrences": 1,
+        "root_order": 42
+    },
+    {
+        "root_word": "بصر",
+        "occurrences": 2,
+        "root_order": 43
+    },
+    {
+        "root_word": "بطل",
+        "occurrences": 1,
+        "root_order": 44
+    },
+    {
+        "root_word": "بعث",
+        "occurrences": 1,
+        "root_order": 45
+    },
+    {
+        "root_word": "بعد",
+        "occurrences": 2,
+        "root_order": 46
+    },
+    {
+        "root_word": "بعض",
+        "occurrences": 4,
+        "root_order": 47
+    },
+    {
+        "root_word": "بغي",
+        "occurrences": 3,
+        "root_order": 48
+    },
+    {
+        "root_word": "بكم",
+        "occurrences": 1,
+        "root_order": 49
+    },
+    {
+        "root_word": "بل",
+        "occurrences": 4,
+        "root_order": 50
+    },
+    {
+        "root_word": "بلس",
+        "occurrences": 2,
+        "root_order": 51
+    },
+    {
+        "root_word": "بنو",
+        "occurrences": 1,
+        "root_order": 52
+    },
+    {
+        "root_word": "بني",
+        "occurrences": 1,
+        "root_order": 53
+    },
+    {
+        "root_word": "بهم",
+        "occurrences": 1,
+        "root_order": 54
+    },
+    {
+        "root_word": "بوب",
+        "occurrences": 1,
+        "root_order": 55
+    },
+    {
+        "root_word": "بي",
+        "occurrences": 2,
+        "root_order": 56
+    },
+    {
+        "root_word": "بين",
+        "occurrences": 7,
+        "root_order": 57
+    },
+    {
+        "root_word": "تبع",
+        "occurrences": 2,
+        "root_order": 58
+    },
+    {
+        "root_word": "ترب",
+        "occurrences": 1,
+        "root_order": 59
+    },
+    {
+        "root_word": "تسع",
+        "occurrences": 2,
+        "root_order": 60
+    },
+    {
+        "root_word": "ثمد",
+        "occurrences": 1,
+        "root_order": 61
+    },
+    {
+        "root_word": "ثمود",
+        "occurrences": 1,
+        "root_order": 62
+    },
+    {
+        "root_word": "جاء",
+        "occurrences": 1,
+        "root_order": 63
+    },
+    {
+        "root_word": "جبل",
+        "occurrences": 1,
+        "root_order": 64
+    },
+    {
+        "root_word": "جرى",
+        "occurrences": 1,
+        "root_order": 65
+    },
+    {
+        "root_word": "جري",
+        "occurrences": 1,
+        "root_order": 66
+    },
+    {
+        "root_word": "جسد",
+        "occurrences": 1,
+        "root_order": 67
+    },
+    {
+        "root_word": "جعل",
+        "occurrences": 4,
+        "root_order": 68
+    },
+    {
+        "root_word": "جمع",
+        "occurrences": 3,
+        "root_order": 69
+    },
+    {
+        "root_word": "جنة",
+        "occurrences": 1,
+        "root_order": 70
+    },
+    {
+        "root_word": "جند",
+        "occurrences": 1,
+        "root_order": 71
+    },
+    {
+        "root_word": "جنن",
+        "occurrences": 1,
+        "root_order": 72
+    },
+    {
+        "root_word": "جهنم",
+        "occurrences": 2,
+        "root_order": 73
+    },
+    {
+        "root_word": "جود",
+        "occurrences": 1,
+        "root_order": 74
+    },
+    {
+        "root_word": "جور",
+        "occurrences": 1,
+        "root_order": 75
+    },
+    {
+        "root_word": "جيأ",
+        "occurrences": 1,
+        "root_order": 76
+    },
+    {
+        "root_word": "حبب",
+        "occurrences": 2,
+        "root_order": 77
+    },
+    {
+        "root_word": "حتى",
+        "occurrences": 1,
+        "root_order": 78
+    },
+    {
+        "root_word": "حجب",
+        "occurrences": 1,
+        "root_order": 79
+    },
+    {
+        "root_word": "حرب",
+        "occurrences": 1,
+        "root_order": 80
+    },
+    {
+        "root_word": "حروف مقطعة",
+        "occurrences": 1,
+        "root_order": 81
+    },
+    {
+        "root_word": "حزب",
+        "occurrences": 2,
+        "root_order": 82
+    },
+    {
+        "root_word": "حسب",
+        "occurrences": 4,
+        "root_order": 83
+    },
+    {
+        "root_word": "حسن",
+        "occurrences": 3,
+        "root_order": 84
+    },
+    {
+        "root_word": "حشر",
+        "occurrences": 1,
+        "root_order": 85
+    },
+    {
+        "root_word": "حقق",
+        "occurrences": 6,
+        "root_order": 86
+    },
+    {
+        "root_word": "حكم",
+        "occurrences": 3,
+        "root_order": 87
+    },
+    {
+        "root_word": "حمم",
+        "occurrences": 1,
+        "root_order": 88
+    },
+    {
+        "root_word": "حنث",
+        "occurrences": 1,
+        "root_order": 89
+    },
+    {
+        "root_word": "حيث",
+        "occurrences": 1,
+        "root_order": 90
+    },
+    {
+        "root_word": "حين",
+        "occurrences": 2,
+        "root_order": 91
+    },
+    {
+        "root_word": "خرج",
+        "occurrences": 1,
+        "root_order": 92
+    },
+    {
+        "root_word": "خرر",
+        "occurrences": 1,
+        "root_order": 93
+    },
+    {
+        "root_word": "خزن",
+        "occurrences": 1,
+        "root_order": 94
+    },
+    {
+        "root_word": "خصم",
+        "occurrences": 4,
+        "root_order": 95
+    },
+    {
+        "root_word": "خطأ",
+        "occurrences": 4,
+        "root_order": 96
+    },
+    {
+        "root_word": "خطب",
+        "occurrences": 2,
+        "root_order": 97
+    },
+    {
+        "root_word": "خلص",
+        "occurrences": 3,
+        "root_order": 98
+    },
+    {
+        "root_word": "خلط",
+        "occurrences": 1,
+        "root_order": 99
+    },
+    {
+        "root_word": "خلف",
+        "occurrences": 1,
+        "root_order": 100
+    },
+    {
+        "root_word": "خلق",
+        "occurrences": 6,
+        "root_order": 101
+    },
+    {
+        "root_word": "خوف",
+        "occurrences": 1,
+        "root_order": 102
+    },
+    {
+        "root_word": "خير",
+        "occurrences": 4,
+        "root_order": 103
+    },
+    {
+        "root_word": "داوود",
+        "occurrences": 5,
+        "root_order": 104
+    },
+    {
+        "root_word": "دبر",
+        "occurrences": 1,
+        "root_order": 105
+    },
+    {
+        "root_word": "دخل",
+        "occurrences": 1,
+        "root_order": 106
+    },
+    {
+        "root_word": "دعع",
+        "occurrences": 1,
+        "root_order": 107
+    },
+    {
+        "root_word": "دعو",
+        "occurrences": 1,
+        "root_order": 108
+    },
+    {
+        "root_word": "دور",
+        "occurrences": 1,
+        "root_order": 109
+    },
+    {
+        "root_word": "دين",
+        "occurrences": 1,
+        "root_order": 110
+    },
+    {
+        "root_word": "ذا",
+        "occurrences": 3,
+        "root_order": 111
+    },
+    {
+        "root_word": "ذكر",
+        "occurrences": 13,
+        "root_order": 112
+    },
+    {
+        "root_word": "ذو",
+        "occurrences": 4,
+        "root_order": 113
+    },
+    {
+        "root_word": "ذوق",
+        "occurrences": 2,
+        "root_order": 114
+    },
+    {
+        "root_word": "رأي",
+        "occurrences": 1,
+        "root_order": 115
+    },
+    {
+        "root_word": "رب",
+        "occurrences": 3,
+        "root_order": 116
+    },
+    {
+        "root_word": "ربب",
+        "occurrences": 10,
+        "root_order": 117
+    },
+    {
+        "root_word": "رجل",
+        "occurrences": 2,
+        "root_order": 118
+    },
+    {
+        "root_word": "رجم",
+        "occurrences": 1,
+        "root_order": 119
+    },
+    {
+        "root_word": "رحب",
+        "occurrences": 2,
+        "root_order": 120
+    },
+    {
+        "root_word": "رحم",
+        "occurrences": 2,
+        "root_order": 121
+    },
+    {
+        "root_word": "رخو",
+        "occurrences": 1,
+        "root_order": 122
+    },
+    {
+        "root_word": "ردد",
+        "occurrences": 1,
+        "root_order": 123
+    },
+    {
+        "root_word": "رزق",
+        "occurrences": 1,
+        "root_order": 124
+    },
+    {
+        "root_word": "رسل",
+        "occurrences": 1,
+        "root_order": 125
+    },
+    {
+        "root_word": "رقي",
+        "occurrences": 1,
+        "root_order": 126
+    },
+    {
+        "root_word": "ركض",
+        "occurrences": 1,
+        "root_order": 127
+    },
+    {
+        "root_word": "ركع",
+        "occurrences": 1,
+        "root_order": 128
+    },
+    {
+        "root_word": "روح",
+        "occurrences": 2,
+        "root_order": 129
+    },
+    {
+        "root_word": "رود",
+        "occurrences": 1,
+        "root_order": 130
+    },
+    {
+        "root_word": "زلف",
+        "occurrences": 2,
+        "root_order": 131
+    },
+    {
+        "root_word": "زوج",
+        "occurrences": 1,
+        "root_order": 132
+    },
+    {
+        "root_word": "زيد",
+        "occurrences": 1,
+        "root_order": 133
+    },
+    {
+        "root_word": "زيغ",
+        "occurrences": 1,
+        "root_order": 134
+    },
+    {
+        "root_word": "سأل",
+        "occurrences": 2,
+        "root_order": 135
+    },
+    {
+        "root_word": "سبب",
+        "occurrences": 1,
+        "root_order": 136
+    },
+    {
+        "root_word": "سبح",
+        "occurrences": 1,
+        "root_order": 137
+    },
+    {
+        "root_word": "سبل",
+        "occurrences": 2,
+        "root_order": 138
+    },
+    {
+        "root_word": "سجد",
+        "occurrences": 3,
+        "root_order": 139
+    },
+    {
+        "root_word": "سحر",
+        "occurrences": 1,
+        "root_order": 140
+    },
+    {
+        "root_word": "سخر",
+        "occurrences": 3,
+        "root_order": 141
+    },
+    {
+        "root_word": "سرط",
+        "occurrences": 1,
+        "root_order": 142
+    },
+    {
+        "root_word": "سليمان",
+        "occurrences": 2,
+        "root_order": 143
+    },
+    {
+        "root_word": "سمع",
+        "occurrences": 1,
+        "root_order": 144
+    },
+    {
+        "root_word": "سمو",
+        "occurrences": 3,
+        "root_order": 145
+    },
+    {
+        "root_word": "سوأ",
+        "occurrences": 1,
+        "root_order": 146
+    },
+    {
+        "root_word": "سور",
+        "occurrences": 1,
+        "root_order": 147
+    },
+    {
+        "root_word": "سوق",
+        "occurrences": 1,
+        "root_order": 148
+    },
+    {
+        "root_word": "سوي",
+        "occurrences": 2,
+        "root_order": 149
+    },
+    {
+        "root_word": "شدد",
+        "occurrences": 2,
+        "root_order": 150
+    },
+    {
+        "root_word": "شرب",
+        "occurrences": 2,
+        "root_order": 151
+    },
+    {
+        "root_word": "شرر",
+        "occurrences": 2,
+        "root_order": 152
+    },
+    {
+        "root_word": "شرق",
+        "occurrences": 1,
+        "root_order": 153
+    },
+    {
+        "root_word": "شطط",
+        "occurrences": 1,
+        "root_order": 154
+    },
+    {
+        "root_word": "شقق",
+        "occurrences": 1,
+        "root_order": 155
+    },
+    {
+        "root_word": "شكك",
+        "occurrences": 1,
+        "root_order": 156
+    },
+    {
+        "root_word": "شكل",
+        "occurrences": 1,
+        "root_order": 157
+    },
+    {
+        "root_word": "شيأ",
+        "occurrences": 2,
+        "root_order": 158
+    },
+    {
+        "root_word": "شيطن",
+        "occurrences": 2,
+        "root_order": 159
+    },
+    {
+        "root_word": "صبر",
+        "occurrences": 3,
+        "root_order": 160
+    },
+    {
+        "root_word": "صحب",
+        "occurrences": 1,
+        "root_order": 161
+    },
+    {
+        "root_word": "صفد",
+        "occurrences": 1,
+        "root_order": 162
+    },
+    {
+        "root_word": "صفن",
+        "occurrences": 1,
+        "root_order": 163
+    },
+    {
+        "root_word": "صفو",
+        "occurrences": 1,
+        "root_order": 164
+    },
+    {
+        "root_word": "صلح",
+        "occurrences": 2,
+        "root_order": 165
+    },
+    {
+        "root_word": "صلي",
+        "occurrences": 2,
+        "root_order": 166
+    },
+    {
+        "root_word": "صوب",
+        "occurrences": 1,
+        "root_order": 167
+    },
+    {
+        "root_word": "صيب",
+        "occurrences": 1,
+        "root_order": 168
+    },
+    {
+        "root_word": "صيح",
+        "occurrences": 1,
+        "root_order": 169
+    },
+    {
+        "root_word": "ضرب",
+        "occurrences": 1,
+        "root_order": 170
+    },
+    {
+        "root_word": "ضعف",
+        "occurrences": 1,
+        "root_order": 171
+    },
+    {
+        "root_word": "ضغث",
+        "occurrences": 1,
+        "root_order": 172
+    },
+    {
+        "root_word": "ضلل",
+        "occurrences": 2,
+        "root_order": 173
+    },
+    {
+        "root_word": "طرف",
+        "occurrences": 1,
+        "root_order": 174
+    },
+    {
+        "root_word": "طغى",
+        "occurrences": 1,
+        "root_order": 175
+    },
+    {
+        "root_word": "طغي",
+        "occurrences": 1,
+        "root_order": 176
+    },
+    {
+        "root_word": "طفق",
+        "occurrences": 1,
+        "root_order": 177
+    },
+    {
+        "root_word": "طلق",
+        "occurrences": 1,
+        "root_order": 178
+    },
+    {
+        "root_word": "طير",
+        "occurrences": 1,
+        "root_order": 179
+    },
+    {
+        "root_word": "طين",
+        "occurrences": 2,
+        "root_order": 180
+    },
+    {
+        "root_word": "ظلم",
+        "occurrences": 1,
+        "root_order": 181
+    },
+    {
+        "root_word": "ظنن",
+        "occurrences": 2,
+        "root_order": 182
+    },
+    {
+        "root_word": "عاد",
+        "occurrences": 1,
+        "root_order": 183
+    },
+    {
+        "root_word": "عبد",
+        "occurrences": 6,
+        "root_order": 184
+    },
+    {
+        "root_word": "عجب",
+        "occurrences": 2,
+        "root_order": 185
+    },
+    {
+        "root_word": "عجل",
+        "occurrences": 1,
+        "root_order": 186
+    },
+    {
+        "root_word": "عدد",
+        "occurrences": 1,
+        "root_order": 187
+    },
+    {
+        "root_word": "عدن",
+        "occurrences": 1,
+        "root_order": 188
+    },
+    {
+        "root_word": "عدو",
+        "occurrences": 1,
+        "root_order": 189
+    },
+    {
+        "root_word": "عذب",
+        "occurrences": 4,
+        "root_order": 190
+    },
+    {
+        "root_word": "عرض",
+        "occurrences": 2,
+        "root_order": 191
+    },
+    {
+        "root_word": "عزز",
+        "occurrences": 5,
+        "root_order": 192
+    },
+    {
+        "root_word": "عشو",
+        "occurrences": 2,
+        "root_order": 193
+    },
+    {
+        "root_word": "عطو",
+        "occurrences": 1,
+        "root_order": 194
+    },
+    {
+        "root_word": "عظم",
+        "occurrences": 1,
+        "root_order": 195
+    },
+    {
+        "root_word": "عقب",
+        "occurrences": 1,
+        "root_order": 196
+    },
+    {
+        "root_word": "علم",
+        "occurrences": 4,
+        "root_order": 197
+    },
+    {
+        "root_word": "علو",
+        "occurrences": 3,
+        "root_order": 198
+    },
+    {
+        "root_word": "على",
+        "occurrences": 5,
+        "root_order": 199
+    },
+    {
+        "root_word": "عمل",
+        "occurrences": 2,
+        "root_order": 200
+    },
+    {
+        "root_word": "عن",
+        "occurrences": 2,
+        "root_order": 201
+    },
+    {
+        "root_word": "عند",
+        "occurrences": 5,
+        "root_order": 202
+    },
+    {
+        "root_word": "عنق",
+        "occurrences": 1,
+        "root_order": 203
+    },
+    {
+        "root_word": "عود",
+        "occurrences": 1,
+        "root_order": 204
+    },
+    {
+        "root_word": "غسق",
+        "occurrences": 1,
+        "root_order": 205
+    },
+    {
+        "root_word": "غسل",
+        "occurrences": 1,
+        "root_order": 206
+    },
+    {
+        "root_word": "غفر",
+        "occurrences": 4,
+        "root_order": 207
+    },
+    {
+        "root_word": "غوص",
+        "occurrences": 1,
+        "root_order": 208
+    },
+    {
+        "root_word": "غوي",
+        "occurrences": 1,
+        "root_order": 209
+    },
+    {
+        "root_word": "غير",
+        "occurrences": 1,
+        "root_order": 210
+    },
+    {
+        "root_word": "فتح",
+        "occurrences": 1,
+        "root_order": 211
+    },
+    {
+        "root_word": "فتن",
+        "occurrences": 2,
+        "root_order": 212
+    },
+    {
+        "root_word": "فجر",
+        "occurrences": 1,
+        "root_order": 213
+    },
+    {
+        "root_word": "فرعن",
+        "occurrences": 1,
+        "root_order": 214
+    },
+    {
+        "root_word": "فرعون",
+        "occurrences": 1,
+        "root_order": 215
+    },
+    {
+        "root_word": "فزع",
+        "occurrences": 1,
+        "root_order": 216
+    },
+    {
+        "root_word": "فسد",
+        "occurrences": 1,
+        "root_order": 217
+    },
+    {
+        "root_word": "فصل",
+        "occurrences": 1,
+        "root_order": 218
+    },
+    {
+        "root_word": "فكه",
+        "occurrences": 1,
+        "root_order": 219
+    },
+    {
+        "root_word": "فوج",
+        "occurrences": 1,
+        "root_order": 220
+    },
+    {
+        "root_word": "فوق",
+        "occurrences": 1,
+        "root_order": 221
+    },
+    {
+        "root_word": "في",
+        "occurrences": 1,
+        "root_order": 222
+    },
+    {
+        "root_word": "قبل",
+        "occurrences": 7,
+        "root_order": 223
+    },
+    {
+        "root_word": "قحم",
+        "occurrences": 1,
+        "root_order": 224
+    },
+    {
+        "root_word": "قد",
+        "occurrences": 5,
+        "root_order": 225
+    },
+    {
+        "root_word": "قدم",
+        "occurrences": 2,
+        "root_order": 226
+    },
+    {
+        "root_word": "قرأ",
+        "occurrences": 1,
+        "root_order": 227
+    },
+    {
+        "root_word": "قرر",
+        "occurrences": 1,
+        "root_order": 228
+    },
+    {
+        "root_word": "قرن",
+        "occurrences": 2,
+        "root_order": 229
+    },
+    {
+        "root_word": "قصر",
+        "occurrences": 1,
+        "root_order": 230
+    },
+    {
+        "root_word": "قطط",
+        "occurrences": 1,
+        "root_order": 231
+    },
+    {
+        "root_word": "قلل",
+        "occurrences": 4,
+        "root_order": 232
+    },
+    {
+        "root_word": "قهر",
+        "occurrences": 1,
+        "root_order": 233
+    },
+    {
+        "root_word": "قول",
+        "occurrences": 23,
+        "root_order": 234
+    },
+    {
+        "root_word": "قوم",
+        "occurrences": 2,
+        "root_order": 235
+    },
+    {
+        "root_word": "كبر",
+        "occurrences": 2,
+        "root_order": 236
+    },
+    {
+        "root_word": "كتب",
+        "occurrences": 1,
+        "root_order": 237
+    },
+    {
+        "root_word": "كثر",
+        "occurrences": 2,
+        "root_order": 238
+    },
+    {
+        "root_word": "كذب",
+        "occurrences": 3,
+        "root_order": 239
+    },
+    {
+        "root_word": "كرس",
+        "occurrences": 1,
+        "root_order": 240
+    },
+    {
+        "root_word": "كفر",
+        "occurrences": 5,
+        "root_order": 241
+    },
+    {
+        "root_word": "كفل",
+        "occurrences": 2,
+        "root_order": 242
+    },
+    {
+        "root_word": "كل",
+        "occurrences": 1,
+        "root_order": 243
+    },
+    {
+        "root_word": "كلف",
+        "occurrences": 1,
+        "root_order": 244
+    },
+    {
+        "root_word": "كلل",
+        "occurrences": 1,
+        "root_order": 245
+    },
+    {
+        "root_word": "كم",
+        "occurrences": 1,
+        "root_order": 246
+    },
+    {
+        "root_word": "كمم",
+        "occurrences": 1,
+        "root_order": 247
+    },
+    {
+        "root_word": "كون",
+        "occurrences": 3,
+        "root_order": 248
+    },
+    {
+        "root_word": "لات",
+        "occurrences": 1,
+        "root_order": 249
+    },
+    {
+        "root_word": "لبب",
+        "occurrences": 2,
+        "root_order": 250
+    },
+    {
+        "root_word": "لحق",
+        "occurrences": 1,
+        "root_order": 251
+    },
+    {
+        "root_word": "لعن",
+        "occurrences": 1,
+        "root_order": 252
+    },
+    {
+        "root_word": "لقد",
+        "occurrences": 2,
+        "root_order": 253
+    },
+    {
+        "root_word": "لقي",
+        "occurrences": 1,
+        "root_order": 254
+    },
+    {
+        "root_word": "لم",
+        "occurrences": 2,
+        "root_order": 255
+    },
+    {
+        "root_word": "لما",
+        "occurrences": 2,
+        "root_order": 256
+    },
+    {
+        "root_word": "لو",
+        "occurrences": 1,
+        "root_order": 257
+    },
+    {
+        "root_word": "لوط",
+        "occurrences": 1,
+        "root_order": 258
+    },
+    {
+        "root_word": "لي",
+        "occurrences": 9,
+        "root_order": 259
+    },
+    {
+        "root_word": "مثل",
+        "occurrences": 1,
+        "root_order": 260
+    },
+    {
+        "root_word": "مسح",
+        "occurrences": 1,
+        "root_order": 261
+    },
+    {
+        "root_word": "مسس",
+        "occurrences": 1,
+        "root_order": 262
+    },
+    {
+        "root_word": "مسك",
+        "occurrences": 1,
+        "root_order": 263
+    },
+    {
+        "root_word": "مشي",
+        "occurrences": 1,
+        "root_order": 264
+    },
+    {
+        "root_word": "مع",
+        "occurrences": 3,
+        "root_order": 265
+    },
+    {
+        "root_word": "ملأ",
+        "occurrences": 3,
+        "root_order": 266
+    },
+    {
+        "root_word": "ملك",
+        "occurrences": 3,
+        "root_order": 267
+    },
+    {
+        "root_word": "ملل",
+        "occurrences": 1,
+        "root_order": 268
+    },
+    {
+        "root_word": "من",
+        "occurrences": 11,
+        "root_order": 269
+    },
+    {
+        "root_word": "منع",
+        "occurrences": 1,
+        "root_order": 270
+    },
+    {
+        "root_word": "منن",
+        "occurrences": 2,
+        "root_order": 271
+    },
+    {
+        "root_word": "مهد",
+        "occurrences": 1,
+        "root_order": 272
+    },
+    {
+        "root_word": "نبأ",
+        "occurrences": 3,
+        "root_order": 273
+    },
+    {
+        "root_word": "ندو",
+        "occurrences": 2,
+        "root_order": 274
+    },
+    {
+        "root_word": "نذر",
+        "occurrences": 3,
+        "root_order": 275
+    },
+    {
+        "root_word": "نزل",
+        "occurrences": 2,
+        "root_order": 276
+    },
+    {
+        "root_word": "نسي",
+        "occurrences": 1,
+        "root_order": 277
+    },
+    {
+        "root_word": "نصب",
+        "occurrences": 1,
+        "root_order": 278
+    },
+    {
+        "root_word": "نظر",
+        "occurrences": 3,
+        "root_order": 279
+    },
+    {
+        "root_word": "نعج",
+        "occurrences": 4,
+        "root_order": 280
+    },
+    {
+        "root_word": "نعم",
+        "occurrences": 2,
+        "root_order": 281
+    },
+    {
+        "root_word": "نفخ",
+        "occurrences": 1,
+        "root_order": 282
+    },
+    {
+        "root_word": "نفد",
+        "occurrences": 1,
+        "root_order": 283
+    },
+    {
+        "root_word": "نوب",
+        "occurrences": 2,
+        "root_order": 284
+    },
+    {
+        "root_word": "نوح",
+        "occurrences": 1,
+        "root_order": 285
+    },
+    {
+        "root_word": "نور",
+        "occurrences": 5,
+        "root_order": 286
+    },
+    {
+        "root_word": "نوس",
+        "occurrences": 1,
+        "root_order": 287
+    },
+    {
+        "root_word": "نوص",
+        "occurrences": 1,
+        "root_order": 288
+    },
+    {
+        "root_word": "هؤلاء",
+        "occurrences": 1,
+        "root_order": 289
+    },
+    {
+        "root_word": "هدي",
+        "occurrences": 1,
+        "root_order": 290
+    },
+    {
+        "root_word": "هزم",
+        "occurrences": 1,
+        "root_order": 291
+    },
+    {
+        "root_word": "هل",
+        "occurrences": 1,
+        "root_order": 292
+    },
+    {
+        "root_word": "هلك",
+        "occurrences": 1,
+        "root_order": 293
+    },
+    {
+        "root_word": "هلل",
+        "occurrences": 1,
+        "root_order": 294
+    },
+    {
+        "root_word": "هنا",
+        "occurrences": 1,
+        "root_order": 295
+    },
+    {
+        "root_word": "هو",
+        "occurrences": 1,
+        "root_order": 296
+    },
+    {
+        "root_word": "هوي",
+        "occurrences": 1,
+        "root_order": 297
+    },
+    {
+        "root_word": "وتد",
+        "occurrences": 1,
+        "root_order": 298
+    },
+    {
+        "root_word": "وجد",
+        "occurrences": 1,
+        "root_order": 299
+    },
+    {
+        "root_word": "وحد",
+        "occurrences": 4,
+        "root_order": 300
+    },
+    {
+        "root_word": "وحي",
+        "occurrences": 1,
+        "root_order": 301
+    },
+    {
+        "root_word": "وري",
+        "occurrences": 1,
+        "root_order": 302
+    },
+    {
+        "root_word": "وعد",
+        "occurrences": 2,
+        "root_order": 303
+    },
+    {
+        "root_word": "وقت",
+        "occurrences": 1,
+        "root_order": 304
+    },
+    {
+        "root_word": "وقع",
+        "occurrences": 1,
+        "root_order": 305
+    },
+    {
+        "root_word": "وقى",
+        "occurrences": 1,
+        "root_order": 306
+    },
+    {
+        "root_word": "وقي",
+        "occurrences": 2,
+        "root_order": 307
+    },
+    {
+        "root_word": "وكأ",
+        "occurrences": 1,
+        "root_order": 308
+    },
+    {
+        "root_word": "وكل",
+        "occurrences": 1,
+        "root_order": 309
+    },
+    {
+        "root_word": "ولي",
+        "occurrences": 1,
+        "root_order": 310
+    },
+    {
+        "root_word": "وهب",
+        "occurrences": 5,
+        "root_order": 311
+    },
+    {
+        "root_word": "ويل",
+        "occurrences": 1,
+        "root_order": 312
+    },
+    {
+        "root_word": "يدي",
+        "occurrences": 4,
+        "root_order": 313
+    },
+    {
+        "root_word": "يعقوب",
+        "occurrences": 1,
+        "root_order": 314
+    },
+    {
+        "root_word": "يوم",
+        "occurrences": 6,
+        "root_order": 315
+    }
+]

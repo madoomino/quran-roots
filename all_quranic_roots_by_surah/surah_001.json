@@ -1,0 +1,112 @@
+[
+    {
+        "root_word": "أله",
+        "occurrences": 2,
+        "root_order": 1
+    },
+    {
+        "root_word": "إيا",
+        "occurrences": 2,
+        "root_order": 2
+    },
+    {
+        "root_word": "الله",
+        "occurrences": 2,
+        "root_order": 3
+    },
+    {
+        "root_word": "بسم",
+        "occurrences": 1,
+        "root_order": 4
+    },
+    {
+        "root_word": "حمد",
+        "occurrences": 1,
+        "root_order": 5
+    },
+    {
+        "root_word": "دين",
+        "occurrences": 1,
+        "root_order": 6
+    },
+    {
+        "root_word": "رب",
+        "occurrences": 1,
+        "root_order": 7
+    },
+    {
+        "root_word": "ربب",
+        "occurrences": 1,
+        "root_order": 8
+    },
+    {
+        "root_word": "رحم",
+        "occurrences": 4,
+        "root_order": 9
+    },
+    {
+        "root_word": "سرط",
+        "occurrences": 2,
+        "root_order": 10
+    },
+    {
+        "root_word": "سمو",
+        "occurrences": 1,
+        "root_order": 11
+    },
+    {
+        "root_word": "ضلل",
+        "occurrences": 1,
+        "root_order": 12
+    },
+    {
+        "root_word": "عبد",
+        "occurrences": 1,
+        "root_order": 13
+    },
+    {
+        "root_word": "علم",
+        "occurrences": 1,
+        "root_order": 14
+    },
+    {
+        "root_word": "عون",
+        "occurrences": 1,
+        "root_order": 15
+    },
+    {
+        "root_word": "غضب",
+        "occurrences": 1,
+        "root_order": 16
+    },
+    {
+        "root_word": "غير",
+        "occurrences": 1,
+        "root_order": 17
+    },
+    {
+        "root_word": "قوم",
+        "occurrences": 1,
+        "root_order": 18
+    },
+    {
+        "root_word": "ملك",
+        "occurrences": 1,
+        "root_order": 19
+    },
+    {
+        "root_word": "نعم",
+        "occurrences": 1,
+        "root_order": 20
+    },
+    {
+        "root_word": "هدي",
+        "occurrences": 1,
+        "root_order": 21
+    },
+    {
+        "root_word": "يوم",
+        "occurrences": 1,
+        "root_order": 22
+    }
+]

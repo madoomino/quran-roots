@@ -1,0 +1,217 @@
+[
+    {
+        "root_word": "أكل",
+        "occurrences": 3,
+        "root_order": 1
+    },
+    {
+        "root_word": "ألم",
+        "occurrences": 1,
+        "root_order": 2
+    },
+    {
+        "root_word": "أله",
+        "occurrences": 1,
+        "root_order": 3
+    },
+    {
+        "root_word": "أمر",
+        "occurrences": 1,
+        "root_order": 4
+    },
+    {
+        "root_word": "أن",
+        "occurrences": 1,
+        "root_order": 5
+    },
+    {
+        "root_word": "أنس",
+        "occurrences": 3,
+        "root_order": 6
+    },
+    {
+        "root_word": "إن",
+        "occurrences": 1,
+        "root_order": 7
+    },
+    {
+        "root_word": "الله",
+        "occurrences": 1,
+        "root_order": 8
+    },
+    {
+        "root_word": "خطأ",
+        "occurrences": 1,
+        "root_order": 9
+    },
+    {
+        "root_word": "خلق",
+        "occurrences": 2,
+        "root_order": 10
+    },
+    {
+        "root_word": "دعو",
+        "occurrences": 2,
+        "root_order": 11
+    },
+    {
+        "root_word": "رأي",
+        "occurrences": 5,
+        "root_order": 12
+    },
+    {
+        "root_word": "ربب",
+        "occurrences": 3,
+        "root_order": 13
+    },
+    {
+        "root_word": "رجع",
+        "occurrences": 1,
+        "root_order": 14
+    },
+    {
+        "root_word": "زبن",
+        "occurrences": 1,
+        "root_order": 15
+    },
+    {
+        "root_word": "زين",
+        "occurrences": 1,
+        "root_order": 16
+    },
+    {
+        "root_word": "سجد",
+        "occurrences": 1,
+        "root_order": 17
+    },
+    {
+        "root_word": "سفع",
+        "occurrences": 1,
+        "root_order": 18
+    },
+    {
+        "root_word": "سمو",
+        "occurrences": 1,
+        "root_order": 19
+    },
+    {
+        "root_word": "صلو",
+        "occurrences": 1,
+        "root_order": 20
+    },
+    {
+        "root_word": "طغى",
+        "occurrences": 1,
+        "root_order": 21
+    },
+    {
+        "root_word": "طغي",
+        "occurrences": 1,
+        "root_order": 22
+    },
+    {
+        "root_word": "طوع",
+        "occurrences": 1,
+        "root_order": 23
+    },
+    {
+        "root_word": "طيع",
+        "occurrences": 1,
+        "root_order": 24
+    },
+    {
+        "root_word": "عبد",
+        "occurrences": 1,
+        "root_order": 25
+    },
+    {
+        "root_word": "علق",
+        "occurrences": 1,
+        "root_order": 26
+    },
+    {
+        "root_word": "علم",
+        "occurrences": 4,
+        "root_order": 27
+    },
+    {
+        "root_word": "غني",
+        "occurrences": 1,
+        "root_order": 28
+    },
+    {
+        "root_word": "قرأ",
+        "occurrences": 2,
+        "root_order": 29
+    },
+    {
+        "root_word": "قرب",
+        "occurrences": 1,
+        "root_order": 30
+    },
+    {
+        "root_word": "قلم",
+        "occurrences": 1,
+        "root_order": 31
+    },
+    {
+        "root_word": "كذب",
+        "occurrences": 2,
+        "root_order": 32
+    },
+    {
+        "root_word": "كرم",
+        "occurrences": 1,
+        "root_order": 33
+    },
+    {
+        "root_word": "كلا",
+        "occurrences": 3,
+        "root_order": 34
+    },
+    {
+        "root_word": "كلل",
+        "occurrences": 3,
+        "root_order": 35
+    },
+    {
+        "root_word": "لئن",
+        "occurrences": 1,
+        "root_order": 36
+    },
+    {
+        "root_word": "لم",
+        "occurrences": 1,
+        "root_order": 37
+    },
+    {
+        "root_word": "ندو",
+        "occurrences": 1,
+        "root_order": 38
+    },
+    {
+        "root_word": "نصو",
+        "occurrences": 2,
+        "root_order": 39
+    },
+    {
+        "root_word": "نهي",
+        "occurrences": 2,
+        "root_order": 40
+    },
+    {
+        "root_word": "هدي",
+        "occurrences": 1,
+        "root_order": 41
+    },
+    {
+        "root_word": "وقي",
+        "occurrences": 1,
+        "root_order": 42
+    },
+    {
+        "root_word": "ولي",
+        "occurrences": 1,
+        "root_order": 43
+    }
+]

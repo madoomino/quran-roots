@@ -1,0 +1,57 @@
+[
+    {
+        "root_word": "أحد",
+        "occurrences": 2,
+        "root_order": 1
+    },
+    {
+        "root_word": "أله",
+        "occurrences": 2,
+        "root_order": 2
+    },
+    {
+        "root_word": "الله",
+        "occurrences": 2,
+        "root_order": 3
+    },
+    {
+        "root_word": "صمد",
+        "occurrences": 1,
+        "root_order": 4
+    },
+    {
+        "root_word": "قلل",
+        "occurrences": 1,
+        "root_order": 5
+    },
+    {
+        "root_word": "قول",
+        "occurrences": 1,
+        "root_order": 6
+    },
+    {
+        "root_word": "كفأ",
+        "occurrences": 1,
+        "root_order": 7
+    },
+    {
+        "root_word": "كفف",
+        "occurrences": 1,
+        "root_order": 8
+    },
+    {
+        "root_word": "كون",
+        "occurrences": 1,
+        "root_order": 9
+    },
+    {
+        "root_word": "لم",
+        "occurrences": 2,
+        "root_order": 10
+    },
+    {
+        "root_word": "ولد",
+        "occurrences": 2,
+        "root_order": 11
+    }
+]

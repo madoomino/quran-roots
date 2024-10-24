@@ -1,0 +1,52 @@
+[
+    {
+        "root_word": "أمن",
+        "occurrences": 1,
+        "root_order": 1
+    },
+    {
+        "root_word": "أنس",
+        "occurrences": 1,
+        "root_order": 2
+    },
+    {
+        "root_word": "حقق",
+        "occurrences": 1,
+        "root_order": 3
+    },
+    {
+        "root_word": "خسر",
+        "occurrences": 1,
+        "root_order": 4
+    },
+    {
+        "root_word": "صبر",
+        "occurrences": 1,
+        "root_order": 5
+    },
+    {
+        "root_word": "صلح",
+        "occurrences": 1,
+        "root_order": 6
+    },
+    {
+        "root_word": "عصر",
+        "occurrences": 1,
+        "root_order": 7
+    },
+    {
+        "root_word": "عمل",
+        "occurrences": 1,
+        "root_order": 8
+    },
+    {
+        "root_word": "في",
+        "occurrences": 1,
+        "root_order": 9
+    },
+    {
+        "root_word": "وصي",
+        "occurrences": 2,
+        "root_order": 10
+    }
+]

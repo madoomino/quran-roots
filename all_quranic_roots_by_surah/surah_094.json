@@ -1,0 +1,112 @@
+[
+    {
+        "root_word": "ألم",
+        "occurrences": 1,
+        "root_order": 1
+    },
+    {
+        "root_word": "إذا",
+        "occurrences": 1,
+        "root_order": 2
+    },
+    {
+        "root_word": "إلى",
+        "occurrences": 1,
+        "root_order": 3
+    },
+    {
+        "root_word": "إن",
+        "occurrences": 1,
+        "root_order": 4
+    },
+    {
+        "root_word": "ذكر",
+        "occurrences": 1,
+        "root_order": 5
+    },
+    {
+        "root_word": "ربب",
+        "occurrences": 1,
+        "root_order": 6
+    },
+    {
+        "root_word": "رغب",
+        "occurrences": 1,
+        "root_order": 7
+    },
+    {
+        "root_word": "رفع",
+        "occurrences": 1,
+        "root_order": 8
+    },
+    {
+        "root_word": "شرح",
+        "occurrences": 1,
+        "root_order": 9
+    },
+    {
+        "root_word": "صدر",
+        "occurrences": 1,
+        "root_order": 10
+    },
+    {
+        "root_word": "ظهر",
+        "occurrences": 1,
+        "root_order": 11
+    },
+    {
+        "root_word": "عسر",
+        "occurrences": 2,
+        "root_order": 12
+    },
+    {
+        "root_word": "عن",
+        "occurrences": 1,
+        "root_order": 13
+    },
+    {
+        "root_word": "فرغ",
+        "occurrences": 1,
+        "root_order": 14
+    },
+    {
+        "root_word": "لم",
+        "occurrences": 1,
+        "root_order": 15
+    },
+    {
+        "root_word": "لي",
+        "occurrences": 2,
+        "root_order": 16
+    },
+    {
+        "root_word": "مع",
+        "occurrences": 2,
+        "root_order": 17
+    },
+    {
+        "root_word": "نصب",
+        "occurrences": 1,
+        "root_order": 18
+    },
+    {
+        "root_word": "نقض",
+        "occurrences": 1,
+        "root_order": 19
+    },
+    {
+        "root_word": "وزر",
+        "occurrences": 1,
+        "root_order": 20
+    },
+    {
+        "root_word": "وضع",
+        "occurrences": 1,
+        "root_order": 21
+    },
+    {
+        "root_word": "يسر",
+        "occurrences": 2,
+        "root_order": 22
+    }
+]

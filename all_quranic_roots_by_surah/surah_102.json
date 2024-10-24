@@ -1,0 +1,102 @@
+[
+    {
+        "root_word": "أكل",
+        "occurrences": 3,
+        "root_order": 1
+    },
+    {
+        "root_word": "إذ",
+        "occurrences": 1,
+        "root_order": 2
+    },
+    {
+        "root_word": "تلو",
+        "occurrences": 1,
+        "root_order": 3
+    },
+    {
+        "root_word": "جحم",
+        "occurrences": 1,
+        "root_order": 4
+    },
+    {
+        "root_word": "حتى",
+        "occurrences": 1,
+        "root_order": 5
+    },
+    {
+        "root_word": "رأي",
+        "occurrences": 2,
+        "root_order": 6
+    },
+    {
+        "root_word": "زور",
+        "occurrences": 1,
+        "root_order": 7
+    },
+    {
+        "root_word": "سأل",
+        "occurrences": 1,
+        "root_order": 8
+    },
+    {
+        "root_word": "سوف",
+        "occurrences": 2,
+        "root_order": 9
+    },
+    {
+        "root_word": "علم",
+        "occurrences": 4,
+        "root_order": 10
+    },
+    {
+        "root_word": "عين",
+        "occurrences": 1,
+        "root_order": 11
+    },
+    {
+        "root_word": "قبر",
+        "occurrences": 1,
+        "root_order": 12
+    },
+    {
+        "root_word": "كثر",
+        "occurrences": 1,
+        "root_order": 13
+    },
+    {
+        "root_word": "كلا",
+        "occurrences": 3,
+        "root_order": 14
+    },
+    {
+        "root_word": "كلل",
+        "occurrences": 3,
+        "root_order": 15
+    },
+    {
+        "root_word": "لهو",
+        "occurrences": 1,
+        "root_order": 16
+    },
+    {
+        "root_word": "لو",
+        "occurrences": 1,
+        "root_order": 17
+    },
+    {
+        "root_word": "نعم",
+        "occurrences": 1,
+        "root_order": 18
+    },
+    {
+        "root_word": "يقن",
+        "occurrences": 2,
+        "root_order": 19
+    },
+    {
+        "root_word": "يومئذ",
+        "occurrences": 1,
+        "root_order": 20
+    }
+]
