@@ -11,7 +11,7 @@ This project is designed to teach children the roots of the most common words in
 
 ### What's Done
 
-- Extracted and sorted all Quranic roots from the [Quran Corpus Data Release](https://corpus.quran.com/download/), you can find them in the `all_quranic_roots` dir.
+- Extracted and sorted all Quranic roots from the [Quran Corpus Data Release](https://corpus.quran.com/download/), you can find them in the `all_quranic_roots_sorted` dir.
 
 ### What's Next
 
