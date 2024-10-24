@@ -1,0 +1,67 @@
+[
+    {
+        "root_word": "ألف",
+        "occurrences": 2,
+        "root_order": 1
+    },
+    {
+        "root_word": "أمن",
+        "occurrences": 1,
+        "root_order": 2
+    },
+    {
+        "root_word": "بيت",
+        "occurrences": 1,
+        "root_order": 3
+    },
+    {
+        "root_word": "جوع",
+        "occurrences": 1,
+        "root_order": 4
+    },
+    {
+        "root_word": "خوف",
+        "occurrences": 1,
+        "root_order": 5
+    },
+    {
+        "root_word": "رب",
+        "occurrences": 1,
+        "root_order": 6
+    },
+    {
+        "root_word": "ربب",
+        "occurrences": 1,
+        "root_order": 7
+    },
+    {
+        "root_word": "رحل",
+        "occurrences": 1,
+        "root_order": 8
+    },
+    {
+        "root_word": "شتو",
+        "occurrences": 1,
+        "root_order": 9
+    },
+    {
+        "root_word": "صيف",
+        "occurrences": 1,
+        "root_order": 10
+    },
+    {
+        "root_word": "طعم",
+        "occurrences": 1,
+        "root_order": 11
+    },
+    {
+        "root_word": "عبد",
+        "occurrences": 1,
+        "root_order": 12
+    },
+    {
+        "root_word": "قرش",
+        "occurrences": 1,
+        "root_order": 13
+    }
+]

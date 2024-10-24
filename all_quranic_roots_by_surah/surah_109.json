@@ -1,0 +1,67 @@
+[
+    {
+        "root_word": "أن",
+        "occurrences": 1,
+        "root_order": 1
+    },
+    {
+        "root_word": "أنا",
+        "occurrences": 1,
+        "root_order": 2
+    },
+    {
+        "root_word": "أنت",
+        "occurrences": 2,
+        "root_order": 3
+    },
+    {
+        "root_word": "أنتم",
+        "occurrences": 2,
+        "root_order": 4
+    },
+    {
+        "root_word": "أيها",
+        "occurrences": 1,
+        "root_order": 5
+    },
+    {
+        "root_word": "خطأ",
+        "occurrences": 1,
+        "root_order": 6
+    },
+    {
+        "root_word": "دين",
+        "occurrences": 2,
+        "root_order": 7
+    },
+    {
+        "root_word": "عبد",
+        "occurrences": 8,
+        "root_order": 8
+    },
+    {
+        "root_word": "قلل",
+        "occurrences": 1,
+        "root_order": 9
+    },
+    {
+        "root_word": "قول",
+        "occurrences": 1,
+        "root_order": 10
+    },
+    {
+        "root_word": "كفر",
+        "occurrences": 1,
+        "root_order": 11
+    },
+    {
+        "root_word": "لي",
+        "occurrences": 1,
+        "root_order": 12
+    },
+    {
+        "root_word": "ولي",
+        "occurrences": 1,
+        "root_order": 13
+    }
+]
